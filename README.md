@@ -53,6 +53,8 @@ After you're finished please remove all the comments and instructions!
 
 **Hello Rails Front-End** is a tutorial exercise project that focuses on the integration of React with Rails. It demonstrates how to connect the front-end with the back-end by consuming greetings data from the Rails API and rendering it in the user interface using React components. By following this tutorial, developers can gain a better understanding of how to integrate React and Rails, enabling them to build interactive and dynamic applications that leverage the strengths of both technologies. The project provides a practical example of how to establish this integration, serving as a guide for developers looking to implement similar functionality in their own projects.
 
+**<a href="https://github.com/wacoo/hello-rails-back-end">Hello Rails Back-End</a>** 
+
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
